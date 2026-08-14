@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
+| [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BSKRISHNA14/Leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
