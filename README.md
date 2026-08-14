@@ -51,6 +51,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/BSKRISHNA14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BSKRISHNA14/Leetcode/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/BSKRISHNA14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
