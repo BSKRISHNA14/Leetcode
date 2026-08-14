@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/BSKRISHNA14/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/BSKRISHNA14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/BSKRISHNA14/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BSKRISHNA14/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BSKRISHNA14/Leetcode/tree/master/0342-power-of-four) |
