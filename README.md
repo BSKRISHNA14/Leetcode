@@ -50,4 +50,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
