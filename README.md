@@ -71,6 +71,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/BSKRISHNA14/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## String
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BSKRISHNA14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
