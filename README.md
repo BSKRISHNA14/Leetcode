@@ -14,18 +14,21 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/BSKRISHNA14/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BSKRISHNA14/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BSKRISHNA14/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
