@@ -14,6 +14,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/BSKRISHNA14/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BSKRISHNA14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -29,6 +31,7 @@
 | [0015-3sum](https://github.com/BSKRISHNA14/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -62,11 +65,13 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/BSKRISHNA14/Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -87,6 +92,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Memoization
