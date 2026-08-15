@@ -50,12 +50,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSKRISHNA14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BSKRISHNA14/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BSKRISHNA14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BSKRISHNA14/Leetcode/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/BSKRISHNA14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
 ## Stack
 |  |
