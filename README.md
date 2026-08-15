@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/BSKRISHNA14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSKRISHNA14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BSKRISHNA14/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
@@ -106,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
