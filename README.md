@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/BSKRISHNA14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -86,6 +88,7 @@
 | [0020-valid-parentheses](https://github.com/BSKRISHNA14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
 ## Stack
@@ -105,6 +108,7 @@
 | [0338-counting-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/BSKRISHNA14/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
