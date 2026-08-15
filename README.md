@@ -84,6 +84,7 @@
 | [0020-valid-parentheses](https://github.com/BSKRISHNA14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/BSKRISHNA14/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +117,8 @@
 | [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BSKRISHNA14/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BSKRISHNA14/Leetcode/tree/master/0342-power-of-four) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
