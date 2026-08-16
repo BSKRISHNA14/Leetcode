@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BSKRISHNA14/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/BSKRISHNA14/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/BSKRISHNA14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSKRISHNA14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/BSKRISHNA14/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 ## Math
