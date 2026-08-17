@@ -71,6 +71,7 @@
 | [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0326-power-of-three](https://github.com/BSKRISHNA14/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BSKRISHNA14/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0633-sum-of-square-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
