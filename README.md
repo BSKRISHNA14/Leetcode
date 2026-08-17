@@ -85,6 +85,7 @@
 | [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/BSKRISHNA14/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/BSKRISHNA14/Leetcode/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/BSKRISHNA14/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/BSKRISHNA14/Leetcode/tree/master/0326-power-of-three) |
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/BSKRISHNA14/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
