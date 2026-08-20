@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/BSKRISHNA14/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0896-monotonic-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0896-monotonic-array) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
