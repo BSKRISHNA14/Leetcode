@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/BSKRISHNA14/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/BSKRISHNA14/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BSKRISHNA14/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/BSKRISHNA14/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSKRISHNA14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BSKRISHNA14/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -101,6 +102,7 @@
 | [0007-reverse-integer](https://github.com/BSKRISHNA14/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/BSKRISHNA14/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/BSKRISHNA14/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/BSKRISHNA14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/BSKRISHNA14/Leetcode/tree/master/0223-rectangle-area) |
