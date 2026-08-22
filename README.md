@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BSKRISHNA14/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/BSKRISHNA14/Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/BSKRISHNA14/Leetcode/tree/master/0223-rectangle-area) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/BSKRISHNA14/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
