@@ -10,10 +10,10 @@ class Solution {
                 stack.push(s.charAt(i));
             }
         }
-        StringBuilder sb=new StringBuilder();
+        StringBuilder ans=new StringBuilder();
         for(char ch : stack){
-            sb.append(ch);
+            ans.append(ch);
         }
-        return sb.toString();
+        return ans.toString();
     }
 }
