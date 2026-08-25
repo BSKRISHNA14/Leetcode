@@ -128,6 +128,7 @@
 | [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0155-min-stack](https://github.com/BSKRISHNA14/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/BSKRISHNA14/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BSKRISHNA14/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -198,4 +200,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BSKRISHNA14/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BSKRISHNA14/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
