@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/BSKRISHNA14/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/BSKRISHNA14/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/BSKRISHNA14/Leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0896-monotonic-array) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -103,6 +104,7 @@
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/BSKRISHNA14/Leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
