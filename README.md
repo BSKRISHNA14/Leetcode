@@ -99,6 +99,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/BSKRISHNA14/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/BSKRISHNA14/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BSKRISHNA14/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@
 | [0009-palindrome-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/BSKRISHNA14/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/BSKRISHNA14/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/BSKRISHNA14/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BSKRISHNA14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/BSKRISHNA14/Leetcode/tree/master/0223-rectangle-area) |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BSKRISHNA14/Leetcode/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BSKRISHNA14/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
