@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BSKRISHNA14/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BSKRISHNA14/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/BSKRISHNA14/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BSKRISHNA14/Leetcode/tree/master/0053-maximum-subarray) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BSKRISHNA14/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BSKRISHNA14/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
