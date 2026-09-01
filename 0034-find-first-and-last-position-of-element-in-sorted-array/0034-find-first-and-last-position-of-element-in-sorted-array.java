@@ -10,7 +10,7 @@ class Solution {
             int mid=left+(right-left)/2;
             if(nums[mid]==target){
                 first=mid;
-                right=mid-1; //search for the elements before mid to check the target value
+                right=mid-1;  // search to the left for a later occurrence
             }
             else if(nums[mid]<target){
                 left=mid+1;
@@ -27,7 +27,7 @@ class Solution {
             int mid=left+(right-left)/2;
             if(nums[mid]==target){
                 last=mid;
-                left=mid+1;  //search for the elements after mid to check the target value
+                left=mid+1;   // search to the right for a later occurrence
             }
             else if(nums[mid]<target){
                 left=mid+1;
