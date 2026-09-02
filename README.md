@@ -93,10 +93,12 @@
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/BSKRISHNA14/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BSKRISHNA14/Leetcode/tree/master/0011-container-with-most-water) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/BSKRISHNA14/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
