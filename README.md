@@ -45,6 +45,7 @@
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
+| [2716-minimize-string-length](https://github.com/BSKRISHNA14/Leetcode/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -150,6 +151,7 @@
 | [1768-merge-strings-alternately](https://github.com/BSKRISHNA14/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2716-minimize-string-length](https://github.com/BSKRISHNA14/Leetcode/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
 | ------- |
