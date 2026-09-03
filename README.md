@@ -33,6 +33,7 @@
 | [0896-monotonic-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0896-monotonic-array) |
 | [1929-concatenation-of-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0371-sum-of-two-integers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
