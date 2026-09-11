@@ -10,10 +10,10 @@ class Solution {
                             break;
                         }
                     }
-                    if(ans[i]==0){
-                        ans[i]=-1;
-                    }
                 }
+            }
+            if(ans[i]==0){
+                ans[i]=-1;
             }
         }
         return ans;
