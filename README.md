@@ -88,6 +88,7 @@
 | [0338-counting-bits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/BSKRISHNA14/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/BSKRISHNA14/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/BSKRISHNA14/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -159,6 +161,7 @@
 | [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/BSKRISHNA14/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/BSKRISHNA14/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/BSKRISHNA14/Leetcode/tree/master/1768-merge-strings-alternately) |
