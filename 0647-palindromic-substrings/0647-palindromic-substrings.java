@@ -3,8 +3,8 @@ class Solution {
         int n=s.length();
         int count=0;
         for(int i=0;i<n;i++){
-            count+=expand(s,i,i);
-            count+=expand(s,i,i+1);
+            count+=expand(s,i,i);     //odd length 
+            count+=expand(s,i,i+1);   //even length
         }
         return count;
     }
