@@ -10,6 +10,7 @@ class Solution {
                             break;
                         }
                     }
+                break;
                 }
             }
             if(ans[i]==0){
