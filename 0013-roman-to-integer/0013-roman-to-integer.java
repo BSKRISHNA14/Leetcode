@@ -23,7 +23,7 @@ class Solution {
             
             } 
             else {
-                result = result + value;   //
+                result = result + value;   // Otherwise, add the current value
             }
         }
         return result;
