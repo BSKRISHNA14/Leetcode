@@ -177,6 +177,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2716-minimize-string-length](https://github.com/BSKRISHNA14/Leetcode/tree/master/2716-minimize-string-length) |
+| [3498-reverse-degree-of-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
