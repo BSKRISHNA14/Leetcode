@@ -145,6 +145,7 @@
 | [0189-rotate-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/BSKRISHNA14/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/BSKRISHNA14/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/BSKRISHNA14/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BSKRISHNA14/Leetcode/tree/master/0342-power-of-four) |
@@ -256,6 +257,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -311,4 +313,8 @@
 | [0197-rising-temperature](https://github.com/BSKRISHNA14/Leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/BSKRISHNA14/Leetcode/tree/master/0577-employee-bonus) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
