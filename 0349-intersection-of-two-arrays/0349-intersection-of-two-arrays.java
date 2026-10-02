@@ -10,8 +10,7 @@ class Solution {
         for (int i = 0; i < nums2.length; i++) {
             if (set.contains(nums2[i])) {
                 ans.add(nums2[i]);
-                // Remove to avoid duplicates in the answer
-                set.remove(nums2[i]);
+                set.remove(nums2[i]);     // Remove to avoid duplicates in the answer
             }
         }
 
