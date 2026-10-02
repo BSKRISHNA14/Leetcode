@@ -171,6 +171,7 @@
 | [0344-reverse-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/BSKRISHNA14/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/BSKRISHNA14/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
