@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/BSKRISHNA14/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BSKRISHNA14/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BSKRISHNA14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/BSKRISHNA14/Leetcode/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@
 | [0290-word-pattern](https://github.com/BSKRISHNA14/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/BSKRISHNA14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/BSKRISHNA14/Leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2716-minimize-string-length](https://github.com/BSKRISHNA14/Leetcode/tree/master/2716-minimize-string-length) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
