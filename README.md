@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BSKRISHNA14/Leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BSKRISHNA14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
@@ -181,6 +182,7 @@
 | [0647-palindromic-substrings](https://github.com/BSKRISHNA14/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/BSKRISHNA14/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BSKRISHNA14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1768-merge-strings-alternately](https://github.com/BSKRISHNA14/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/BSKRISHNA14/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -194,11 +196,13 @@
 | [0225-implement-stack-using-queues](https://github.com/BSKRISHNA14/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BSKRISHNA14/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BSKRISHNA14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BSKRISHNA14/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BSKRISHNA14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
