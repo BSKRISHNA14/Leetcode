@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/BSKRISHNA14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/BSKRISHNA14/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/BSKRISHNA14/Leetcode/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/BSKRISHNA14/Leetcode/tree/master/1051-height-checker) |
 | [1929-concatenation-of-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -196,6 +197,7 @@
 | [0225-implement-stack-using-queues](https://github.com/BSKRISHNA14/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BSKRISHNA14/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/BSKRISHNA14/Leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BSKRISHNA14/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/BSKRISHNA14/Leetcode/tree/master/0739-daily-temperatures) |
 ## Manacher
 |  |
 | ------- |
