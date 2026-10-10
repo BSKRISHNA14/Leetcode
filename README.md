@@ -34,6 +34,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BSKRISHNA14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/BSKRISHNA14/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/BSKRISHNA14/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/BSKRISHNA14/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BSKRISHNA14/Leetcode/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0896-monotonic-array) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BSKRISHNA14/Leetcode/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/BSKRISHNA14/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/BSKRISHNA14/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -345,4 +347,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BSKRISHNA14/Leetcode/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/BSKRISHNA14/Leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
