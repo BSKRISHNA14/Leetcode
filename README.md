@@ -40,6 +40,7 @@
 | [0867-transpose-matrix](https://github.com/BSKRISHNA14/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/BSKRISHNA14/Leetcode/tree/master/1051-height-checker) |
+| [1572-matrix-diagonal-sum](https://github.com/BSKRISHNA14/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/BSKRISHNA14/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BSKRISHNA14/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/BSKRISHNA14/Leetcode/tree/master/3731-find-missing-elements) |
@@ -351,4 +352,5 @@
 | [0048-rotate-image](https://github.com/BSKRISHNA14/Leetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/BSKRISHNA14/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/BSKRISHNA14/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/BSKRISHNA14/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
