@@ -6,6 +6,7 @@ class Solution {
         int[] row=new int[r];
         int[] col=new int[c];
 
+        // Step 1: Find the original zeros
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 if(matrix[i][j]==0){
@@ -15,6 +16,7 @@ class Solution {
             }
         }
 
+        // Step 2: Make the required rows and columns zero
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 if(row[i]==1 || col[j]==1){
